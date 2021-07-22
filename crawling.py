@@ -41,4 +41,5 @@ for image in imges:
         count=count+1
     except:
         pass
+    
 driver.close()
