@@ -24,6 +24,6 @@ teachablemachine에서 기계학습,딥러닝을 이용했다.
 이제 우리는 손을 얼굴에 가져가는 것을 의식하게 되면서 코로나 바이러스의 침투의 가능성을 크게 낮출 수 있다.
 
 #### 시연링크 : https://youtu.be/BVi9-YE_Iv0
-#### 간단 프로그램 링크 : https://teachablemachine.withgoogle.com/models/pM776i96x/
-#### 프로그램 링크 :https://ml-app.yah.ac/
+#### 맛보기 프로그램 링크 : https://teachablemachine.withgoogle.com/models/pM776i96x/
+#### 프로그램 링크 : https://ml-app.yah.ac/
 ##### (링크 접속 후 metadata.js , model.js, weights.bin 파일 삽입 후 커스텀 하여 사용 가능)
